@@ -34,4 +34,4 @@ THEN I am able to successfully create, update, and delete data in my database
 
 # Video Link
 
-[VideoLink]()
+[VideoLink](https://watch.screencastify.com/v/MreyJ1x7eQFlp34MwwXn)
